@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "62711784911",
+    "firebase_url": "https://projectccit-fcafa-default-rtdb.firebaseio.com",
+    "project_id": "projectccit-fcafa",
+    "storage_bucket": "projectccit-fcafa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62711784911:android:e153165f29906df91c9eba",
+        "android_client_info": {
+          "package_name": "com.example.projectpark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62711784911-bq1l80jlpssigo1o5r8ue48rcpdobtem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC74VdDU5c8S628bMLEq2ueaN423HVo7-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62711784911-bq1l80jlpssigo1o5r8ue48rcpdobtem.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
